@@ -28,6 +28,9 @@ const margeSameKeysOfObjects = (obj1, obj2) => {
 
 }
 
+const margeSameKeysOfObjectsExpert = (obj1, arrayOfObjs) => {
+
+}
 
 
 
@@ -55,4 +58,8 @@ const margeSameKeysOfObjects = (obj1, obj2) => {
 
 const itsEnoughForMyBeer = (coinsCount, beerCost) => {
 
+}
+
+const canGiveChange=  (coinsCount, change) => {
+    
 }
