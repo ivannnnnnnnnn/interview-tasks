@@ -63,3 +63,29 @@ const itsEnoughForMyBeer = (coinsCount, beerCost) => {
 const canGiveChange = (coinsCount, change) => {
 
 }
+
+
+/*
+
+        Реализовать функцю которая принимает два параметра:
+            - массив значений
+            - колбэк по результату которого будут групироватся значения
+        
+        Функция должна возращать составной совокупный объект где ключи это
+        названия групп, а значения сами групы
+
+        Example:
+            arr = [6.1, 4.2, 6.3]
+            callbackFunction = Math.Floor
+            result = { 
+                    '4': [4.2],
+                    '6': [6.1, 6.3] 
+                }
+
+
+*/
+
+
+const groupBy = (arr, callbackFunction) => {
+    
+}
