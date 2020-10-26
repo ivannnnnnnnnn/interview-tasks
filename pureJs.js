@@ -60,6 +60,6 @@ const itsEnoughForMyBeer = (coinsCount, beerCost) => {
 
 }
 
-const canGiveChange=  (coinsCount, change) => {
+const canGiveChange = (coinsCount, change) => {
 
 }
