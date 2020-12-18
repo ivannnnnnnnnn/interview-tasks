@@ -1,7 +1,10 @@
 /*
+        За реализацию задач на TS жирный плюс.
+        
         Функция принимает два объекта с разными ключами некоторые из которых
         могут пересекаться. Необходимо вернуть первый объект с обновленными
-        значениями из второго объекта(только те которые совпадают).
+        значениями из второго объекта(только где совпадают ключи).
+        
 
         Example: 
             obj1 = {
@@ -24,11 +27,11 @@
 
 */
 
-const margeSameKeysOfObjects = (obj1, obj2) => {
+const mergeSameKeysOfObjects = (obj1, obj2) => {
 
 }
 
-const margeSameKeysOfObjectsExpert = (obj1, arrayOfObjs) => {
+const mergeSameKeysOfObjectsExpert = (obj1, arrayOfObjs) => {
 
 }
 
